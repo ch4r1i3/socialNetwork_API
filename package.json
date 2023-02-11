@@ -1,0 +1,25 @@
+{
+  "name": "socialnetwork_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node server.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch4r1i3/socialNetwork_API.git"
+  },
+  "author": "Carlos Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ch4r1i3/socialNetwork_API/issues"
+  },
+  "homepage": "https://github.com/ch4r1i3/socialNetwork_API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.9.1"
+  }
+}
