@@ -11,7 +11,7 @@ This is a RESTful API designed for a social media platform where users can share
 - [License](#license-)
 - [Usage](#usage-)
 - [Technologies](#technologies-)
-- [Tests](#tests)
+
 
 
 
